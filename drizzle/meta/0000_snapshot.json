@@ -97,7 +97,7 @@
         },
         "department_id": {
           "name": "department_id",
-          "type": "varchar",
+          "type": "integer",
           "primaryKey": false,
           "notNull": true
         },
